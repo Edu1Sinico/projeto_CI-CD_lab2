@@ -133,4 +133,4 @@ resource "docker_container" "grafana" {
   }
 }
 
-# Teste de execução
+# Teste de execução automática da pipeline
